@@ -1,4 +1,4 @@
-elastic-transfer
+elastic-transfer 🔍
 ==================
 
 It helps move all ES structure to another ES.
