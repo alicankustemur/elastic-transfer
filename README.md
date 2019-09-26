@@ -1,6 +1,8 @@
 elastic-transfer 🔍
 ==================
 
+![](img/elastic-transfer.gif)
+
 [![dockeri.co](https://dockeri.co/image/alicankustemur/elastic-transfer)](https://hub.docker.com/r/alicankustemur/elastic-transfer)
 
 It helps move all ES structure to another ES.
